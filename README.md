@@ -99,3 +99,7 @@ If Qt and wxWidgets are not installed on your system, you may get compile errors
                                                         https://www.sfml-dev.org/tutorials/1.6/images/start-vc-lib-path.png
                                                         https://www.sfml-dev.org/tutorials/1.6/images/start-vc-project-link.png
                                                         https://www.sfml-dev.org/tutorials/1.6/images/start-vc-project-dynamic.png
+                                                        
+                                                        
+                                                        or you can this this article also
+                                                        https://www.sfml-dev.org/tutorials/1.6/start-vc.php
