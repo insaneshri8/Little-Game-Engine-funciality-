@@ -92,3 +92,10 @@ To compile SFML libraries and samples, you must first download and install the f
 Go to SFML-x.y\build\vc2005 (or SFML-x.y\build\vc2008 if you're using VC++ 2008), and open the file SFML.sln. Choose the configuration you want to build (Debug or Release, Static or DLL), and clic "build". This should create the corresponding SFML libraries in the lib directory, as well as the samples executables.
 
 If Qt and wxWidgets are not installed on your system, you may get compile errors with the corresponding samples ; just ignore them.
+                                                        
+                                                        
+                                                        
+                                                        https://www.sfml-dev.org/tutorials/1.6/images/start-vc-include-path.png
+                                                        https://www.sfml-dev.org/tutorials/1.6/images/start-vc-lib-path.png
+                                                        https://www.sfml-dev.org/tutorials/1.6/images/start-vc-project-link.png
+                                                        https://www.sfml-dev.org/tutorials/1.6/images/start-vc-project-dynamic.png
